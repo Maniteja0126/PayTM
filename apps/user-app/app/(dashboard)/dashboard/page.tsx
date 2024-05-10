@@ -31,7 +31,7 @@ export default function () {
             </p>
           </div>
           <div >
-          <SendMoney href={"/transfer"}/>
+          <SendMoney href={"/p2p"}/>
           </div>
         </div>
       </div>
